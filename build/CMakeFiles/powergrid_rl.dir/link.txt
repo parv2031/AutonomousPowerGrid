@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/powergrid_rl.dir/cpp/rough2.cpp.o -o powergrid_rl  -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lzmq 

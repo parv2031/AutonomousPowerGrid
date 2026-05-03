@@ -1,0 +1,3 @@
+/home/parv/prml/build/CMakeFiles/powergrid_rl.dir
+/home/parv/prml/build/CMakeFiles/edit_cache.dir
+/home/parv/prml/build/CMakeFiles/rebuild_cache.dir
